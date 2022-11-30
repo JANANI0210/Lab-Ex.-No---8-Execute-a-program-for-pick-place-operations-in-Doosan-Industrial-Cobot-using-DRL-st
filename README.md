@@ -40,16 +40,24 @@ Procedure:
 
 
 ## Program 
-// Roll no:
+// Roll no: 212220040056
 
-//Name:
-MoveJ ................
+//Name: Janani D
 
 ## output : 
 
+![WhatsApp Image 2022-11-29 at 21 13 08](https://user-images.githubusercontent.com/86832944/204833255-342e8757-ad49-4cfb-a91b-47f745da30a3.jpg)
+
+![WhatsApp Image 2022-11-29 at 21 13 08](https://user-images.githubusercontent.com/86832944/204833368-bde4678a-5488-46d2-8b63-aea35390276e.jpg)
+
+![WhatsApp Image 2022-11-29 at 21 13 09](https://user-images.githubusercontent.com/86832944/204833469-d71d6e8f-6376-4de9-a1b1-8b041ad15628.jpg)
+
+![image](https://user-images.githubusercontent.com/86832944/204833204-81fb83f7-473b-4cb6-9cd8-ec003f362cec.png)
+
+
 
 ## Results: 
-
+               Thus , a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
